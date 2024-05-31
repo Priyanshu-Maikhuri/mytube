@@ -1,7 +1,7 @@
 # MyTube React Application 
 
-Bingewatch videos from favorite creators
-This project has been deployed [here](https://github.com/facebook/create-react-app).
+Bingewatch videos from favorite creators.\
+This project has been deployed [here](https://mytube-application.netlify.app/).
 
 ## Available Scripts
 
